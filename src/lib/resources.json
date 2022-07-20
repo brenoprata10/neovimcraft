@@ -84,6 +84,12 @@
       "repo": "nvim-lspinstall",
       "tags": ["lsp-installer"]
     },
+    {
+      "type": "github",
+      "username": "anuvyklack",
+      "repo": "fold-preview.nvim",
+      "tags": ["utility"]
+    },
     { "type": "github", "username": "anuvyklack", "repo": "hydra.nvim", "tags": ["keybinding"] },
     {
       "type": "github",
@@ -1107,6 +1113,7 @@
       "tags": ["programming-languages-support"]
     },
     { "type": "github", "username": "Olical", "repo": "aniseed", "tags": ["fennel"] },
+    { "type": "github", "username": "Olical", "repo": "conjure", "tags": ["fennel"] },
     {
       "type": "github",
       "username": "olimorris",
